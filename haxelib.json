@@ -1,0 +1,12 @@
+{
+  "name": "heat_vector",
+  "description": "Flexible vector library",
+  "url" : "https://github.com/mrrogge/heat_vector",
+  "license": "MIT",
+  "tags": [],
+  "version": "0.1.1",
+  "releasenote": "",
+  "contributors": ["mrrogge"],
+  "dependencies": {},
+  "classPath": "src"
+}
